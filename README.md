@@ -1,5 +1,5 @@
 # Parking-Space-Allocation-System
-# Parking System - Fullstack Starter
+
 
 ## Overview
 This project is a starter fullstack parking reservation system that matches the ERD you provided.
